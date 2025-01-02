@@ -40,14 +40,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 # PROGRAM
 
-![Screenshot 2024-12-21 173502](https://github.com/user-attachments/assets/f11e3502-0c62-4d0c-8680-e4c03df097d6)
+![Screenshot 2025-01-02 140716](https://github.com/user-attachments/assets/1181489c-7347-44ab-ad1f-96749f078214)
+
 
 
 # RTL LOGIC FOR FLIPFLOPS
-![Screenshot 2024-12-21 173512](https://github.com/user-attachments/assets/55d0559d-f6c2-4d76-a227-d23b4714e78d)
+![Screenshot 2025-01-02 140725](https://github.com/user-attachments/assets/3e2dd5e2-4dce-4f48-aad7-c67a070edefc)
+
 
 # TIMING DIGRAMS FOR FLIP FLOPS
-![Screenshot 2024-12-21 173527](https://github.com/user-attachments/assets/13d1e9af-3f11-4da1-a494-c2d9cd111cff)
+![Screenshot 2025-01-02 140736](https://github.com/user-attachments/assets/7d2a2756-0a16-472f-81d8-d476d12927bb)
 
 # RESULTS
 
